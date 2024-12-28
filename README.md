@@ -1,4 +1,8 @@
-## Hi there 👋
+# Hi there, I'm Henry 👋
+
+![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00CED1&width=435&lines=Welcome+to+my+profile!;I+love+coding+%26+learning;Full-Stack+Developer)
+
+---
 
 <!--
 **henrychooi/henrychooi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
