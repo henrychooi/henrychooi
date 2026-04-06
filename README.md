@@ -28,19 +28,8 @@ I like exploring technology, solving problems, and turning ideas into real proje
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=henrychooi&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrychooi&layout=compact&theme=tokyonight" height="165" />
-</p>
-
-## ⚡
+## ⚡Fun Fact
 
 I enjoy coding, learning new things, and building projects that get a little better every day.
 
 ---
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=henrychooi&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
-</div>
