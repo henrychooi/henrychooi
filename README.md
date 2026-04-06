@@ -1,20 +1,46 @@
+<div align="center">
+
 # Hi there, I'm Henry 👋
 
-![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00CED1&width=435&lines=Welcome+to+my+profile!;I+love+coding+%26+learning!)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00CED1&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+profile!;I+love+coding+and+learning!;Always+building+something+new+%F0%9F%9A%80" alt="Typing SVG" />
+
+<br>
+
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="220" alt="Coding animation" />
+
+</div>
 
 ---
 
-<!--
-**henrychooi/henrychooi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+I'm Henry, a passionate developer who enjoys building cool things, learning new skills, and improving every day.  
+I like exploring technology, solving problems, and turning ideas into real projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=henrychooi&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrychooi&layout=compact&theme=tokyonight" height="165" />
+</p>
+
+## ⚡
+
+I enjoy coding, learning new things, and building projects that get a little better every day.
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=henrychooi&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+</div>
