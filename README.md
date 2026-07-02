@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated wave header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:00CED1&height=200&section=header&text=Li Hang&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Developer%20%E2%80%A2%20Builder%20%E2%80%A2%20Lifelong%20Learner&descSize=18&descAlignY=58" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:00CED1&height=200&section=header&text=Li%20Hang&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Developer%20%E2%80%A2%20Builder%20%E2%80%A2%20Lifelong%20Learner&descSize=18&descAlignY=58" width="100%" />
 
 <!-- Typing animation -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00CED1&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+profile!;I+love+coding+and+learning!;Always+building+something+new+%F0%9F%9A%80" alt="Typing SVG" />
@@ -12,13 +12,9 @@
 
 </div>
 
-<br>
-
 ## 🚀 About Me
 
 > Passionate developer who enjoys building cool things and improving every day.
-
-<br>
 
 ## 💻 Tech Stack
 
@@ -27,8 +23,6 @@
 <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode,docker&theme=dark&perline=7" alt="Tech stack icons" />
 
 </div>
-
-<br>
 
 ## 📊 GitHub Stats
 
@@ -39,15 +33,13 @@
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=henrychooi&theme=tokyonight&hide_border=true&background=0d1117&ring=00CED1&fire=00CED1&currStreakLabel=00CED1" alt="GitHub streak" />
+<img src="https://streak-stats.demolab.com/?user=henrychooi&theme=tokyonight&hide_border=true&background=0d1117&ring=00CED1&fire=00CED1&currStreakLabel=00CED1" alt="GitHub streak" />
 
 <br><br>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=henrychooi&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00CED1&line=00CED1&point=ffffff" width="95%" alt="Contribution graph" />
 
 </div>
-
-<br>
 
 ## ⚡ Fun Fact
 
