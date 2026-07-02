@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated wave header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:00CED1&height=200&section=header&text=Henry&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Developer%20%E2%80%A2%20Builder%20%E2%80%A2%20Lifelong%20Learner&descSize=18&descAlignY=58" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:00CED1&height=200&section=header&text=Li Hang&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Developer%20%E2%80%A2%20Builder%20%E2%80%A2%20Lifelong%20Learner&descSize=18&descAlignY=58" width="100%" />
 
 <!-- Typing animation -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00CED1&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+profile!;I+love+coding+and+learning!;Always+building+something+new+%F0%9F%9A%80" alt="Typing SVG" />
@@ -24,7 +24,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode&theme=dark&perline=7" alt="Tech stack icons" />
+<img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode,docker&theme=dark&perline=7" alt="Tech stack icons" />
 
 </div>
 
@@ -34,16 +34,16 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00CED1&icon_color=00CED1" height="165" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00CED1" height="165" alt="Top languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=henrychooi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00CED1&icon_color=00CED1" height="165" alt="GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrychooi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00CED1" height="165" alt="Top languages" />
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0d1117&ring=00CED1&fire=00CED1&currStreakLabel=00CED1" alt="GitHub streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=henrychooi&theme=tokyonight&hide_border=true&background=0d1117&ring=00CED1&fire=00CED1&currStreakLabel=00CED1" alt="GitHub streak" />
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00CED1&line=00CED1&point=ffffff" width="95%" alt="Contribution graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=henrychooi&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00CED1&line=00CED1&point=ffffff" width="95%" alt="Contribution graph" />
 
 </div>
 
