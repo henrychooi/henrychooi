@@ -9,7 +9,6 @@
 <br>
 
 <a href="https://github.com/henrychooi?tab=repositories"><img src="https://img.shields.io/badge/repos-browse-00CED1?style=for-the-badge&labelColor=0d1117&logo=github" alt="repos" /></a>
-<a href="https://github.com/henrychooi/henrychooi/issues/new?title=%F0%9F%91%8B%20signed%20the%20guestbook&body=**name%20or%20handle:**%20%0A%0A**how%20did%20you%20get%20here:**%20%0A%0A**one%20thing%20worth%20building:**%20%0A"><img src="https://img.shields.io/badge/guestbook-sign_it-00CED1?style=for-the-badge&labelColor=0d1117&logo=maildotru" alt="guestbook" /></a>
 <a href="https://github.com/henrychooi/henrychooi/issues/new?title=%5Bama%5D%20&body=ask%20away%20%E2%80%94%20code%2C%20uni%2C%20agents%2C%20markets%2C%20anything.%20i%20answer%20in%20the%20thread.%0A%0A---%0A%0A"><img src="https://img.shields.io/badge/ask_me-anything-00CED1?style=for-the-badge&labelColor=0d1117&logo=stackexchange" alt="ama" /></a>
 <img src="https://komarev.com/ghpvc/?username=henrychooi&style=for-the-badge&color=00CED1&label=VISITORS&labelColor=0d1117" alt="views" />
 
@@ -97,22 +96,17 @@ philosophy: ship it ugly, then make it sharp
 
 <div align="center">
 
-<!-- theme-adaptive: renders light for light-mode visitors, dark for dark-mode -->
+<!-- theme-adaptive: light card for light-mode visitors, dark for dark-mode -->
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=henrychooi&show_icons=true&hide_border=true&theme=graywhite&title_color=0891b2&icon_color=0891b2&include_all_commits=true&rank_icon=github" />
-  <img src="https://github-readme-stats.vercel.app/api?username=henrychooi&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=00CED1&icon_color=00CED1&include_all_commits=true&rank_icon=github" height="170" alt="stats" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=henrychooi&show_icons=true&hide_border=true&theme=graywhite&title_color=0891b2&icon_color=0891b2&rank_icon=github&card_width=450&cache_seconds=86400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=henrychooi&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=00CED1&icon_color=00CED1&rank_icon=github&card_width=450&cache_seconds=86400" width="450" alt="stats" />
 </picture>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrychooi&layout=compact&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=00CED1&langs_count=8" height="170" alt="top langs" />
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=henrychooi&theme=tokyonight&hide_border=true&background=0d1117&ring=00CED1&fire=00CED1&currStreakLabel=00CED1&sideLabels=00CED1" alt="streak" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrychooi&layout=compact&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=00CED1&langs_count=8&card_width=450&cache_seconds=86400" width="450" alt="top langs" />
 
 <br><br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=henrychooi&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=6" alt="trophies" />
-
-<br>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=henrychooi&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00CED1&line=00CED1&point=ffffff&area=true" width="96%" alt="activity" />
 
@@ -120,7 +114,7 @@ philosophy: ship it ugly, then make it sharp
 
 <br>
 
-> Streak counters measure showing up, not shipping. Don't optimise for the number.
+> These cards are served by a shared free instance and rate-limit under load. If one shows a blank box or an error, see the note at the bottom of this file.
 
 </details>
 
@@ -167,10 +161,6 @@ Here's the actual secret: **most impressive-looking profiles are a stack of badg
 
 <div align="center">
 
-<a href="https://github.com/henrychooi/henrychooi/issues/new?title=%5Bidea%5D%20&body=**the%20problem:**%20%0A%0A**why%20it%27s%20annoying:**%20%0A%0A**closest%20existing%20thing%20and%20why%20it%20falls%20short:**%20%0A"><img src="https://img.shields.io/badge/got_a_problem_worth_solving%3F-pitch_it-00CED1?style=for-the-badge&labelColor=0d1117&logo=lightbulb" alt="pitch an idea" /></a>
-
-<br><br>
-
 <!-- pulls a different quote on every page load -->
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="random quote" />
 
@@ -181,3 +171,27 @@ Here's the actual secret: **most impressive-looking profiles are a stack of badg
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:00CED1,55:14343d,100:0d1117&height=110&section=footer" width="100%" />
+
+<!--
+═══════════════════════════════════════════════════════════════════
+  IF THE STAT CARDS DON'T RENDER
+  ───────────────────────────────────────────────────────────────
+  github-readme-stats.vercel.app is one shared server used by
+  hundreds of thousands of profiles. It hits GitHub's API rate
+  limit constantly, so cards intermittently 404 or render blank.
+  Nothing is wrong with your markdown.
+
+  Permanent fix — run your own copy (free, ~5 min):
+    1. github.com/anuraghazra/github-readme-stats → Fork
+    2. vercel.com → New Project → import your fork → Deploy
+    3. Vercel dashboard → Settings → Environment Variables →
+       add  PAT_1  =  a GitHub personal access token
+       (classic token, no scopes needed for public data)
+    4. Replace every "github-readme-stats.vercel.app" above with
+       your own "your-project.vercel.app"
+
+  GitHub also caches images through its camo proxy, so a card that
+  broke once can stay broken in your browser. Hard-refresh, or add
+  &v=2 to the URL to bust the cache.
+═══════════════════════════════════════════════════════════════════
+-->
