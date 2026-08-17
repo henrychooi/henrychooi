@@ -5,7 +5,6 @@
 <br>
 
 <a href="https://github.com/henrychooi?tab=repositories"><img src="https://img.shields.io/badge/repos-browse-00CED1?style=for-the-badge&labelColor=0d1117&logo=github" alt="repos" /></a>
-<img src="https://img.shields.io/badge/ask_me-anything-00CED1?style=for-the-badge&labelColor=0d1117&logo=stackexchange" alt="ama" /></a>
 
 </div>
 
