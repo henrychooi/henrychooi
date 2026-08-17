@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 268" width="1000" height="268" role="img" aria-label="terminal: whoami returns li hang, computer science at NTU Singapore">
+
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="60%" stop-color="#0e1a1f"/>
+      <stop offset="100%" stop-color="#102c33"/>
+    </linearGradient>
+
+    <linearGradient id="rule" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#00CED1" stop-opacity="0"/>
+      <stop offset="18%" stop-color="#00CED1" stop-opacity="0.9"/>
+      <stop offset="70%" stop-color="#00CED1" stop-opacity="0.25"/>
+      <stop offset="100%" stop-color="#00CED1" stop-opacity="0"/>
+    </linearGradient>
+
+    <clipPath id="type1">
+      <rect x="34" y="74" width="0" height="28">
+        <animate attributeName="width" from="0" to="112" begin="0.25s" dur="0.55s" fill="freeze"/>
+      </rect>
+    </clipPath>
+
+    <clipPath id="type2">
+      <rect x="34" y="176" width="0" height="28">
+        <animate attributeName="width" from="0" to="146" begin="1.85s" dur="0.6s" fill="freeze"/>
+      </rect>
+    </clipPath>
+  </defs>
+
+  <style>
+    .mono { font-family: ui-monospace, "SF Mono", SFMono-Regular, "JetBrains Mono", Menlo, Consolas, monospace; }
+    .cmd  { font-size: 19px; fill: #cbe9ea; }
+    .dol  { font-size: 19px; fill: #00CED1; font-weight: 700; }
+    .name { font-size: 46px; fill: #e8fdfd; font-weight: 700; letter-spacing: 1px; }
+    .out  { font-size: 18px; fill: #82b6ba; }
+    .chip { font-size: 13px; fill: #4d7c82; letter-spacing: 1.5px; }
+  </style>
+
+  <rect width="1000" height="268" rx="14" fill="url(#bg)"/>
+  <rect x="0.75" y="0.75" width="998.5" height="266.5" rx="13.5" fill="none" stroke="#1b3f47" stroke-width="1.5"/>
+
+  <!-- title bar -->
+  <path d="M14 0.75 H986 A13 13 0 0 1 999.25 14 V40 H0.75 V14 A13 13 0 0 1 14 0.75 Z" fill="#0b1116" opacity="0.85"/>
+  <line x1="0.75" y1="40" x2="999.25" y2="40" stroke="#1b3f47" stroke-width="1.5"/>
+  <circle cx="30" cy="20.5" r="5" fill="#00CED1" opacity="0.85"/>
+  <circle cx="50" cy="20.5" r="5" fill="#00CED1" opacity="0.45"/>
+  <circle cx="70" cy="20.5" r="5" fill="#00CED1" opacity="0.2"/>
+  <text class="mono chip" x="500" y="25" text-anchor="middle">~/henrychooi — zsh</text>
+
+  <!-- line 1: typed command -->
+  <g clip-path="url(#type1)">
+    <text class="mono" x="34" y="95">
+      <tspan class="dol">$</tspan><tspan class="cmd" dx="9">whoami</tspan>
+    </text>
+  </g>
+
+  <!-- output: the name -->
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="0.95s" dur="0.45s" fill="freeze"/>
+    <text class="mono name" x="34" y="147">li hang</text>
+    <text class="mono out" x="240" y="147">computer science @ ntu · singapore</text>
+  </g>
+
+  <!-- line 2: typed command -->
+  <g clip-path="url(#type2)">
+    <text class="mono" x="34" y="197">
+      <tspan class="dol">$</tspan><tspan class="cmd" dx="9">cat ~/.now</tspan>
+    </text>
+  </g>
+
+  <!-- output 2 -->
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="2.6s" dur="0.45s" fill="freeze"/>
+    <text class="mono out" x="34" y="228">agent harnesses · dev tooling</text>
+  </g>
+
+  <!-- prompt + blinking cursor -->
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="3.1s" dur="0.3s" fill="freeze"/>
+    <text class="mono dol" x="34" y="255">$</text>
+    <rect x="52" y="240" width="11" height="19" fill="#00CED1">
+      <animate attributeName="opacity" values="1;1;0;0" dur="1.15s" begin="3.1s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <rect x="0" y="264" width="1000" height="2" fill="url(#rule)"/>
+</svg>
