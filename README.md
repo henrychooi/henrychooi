@@ -5,7 +5,7 @@
 <br>
 
 <a href="https://github.com/henrychooi?tab=repositories"><img src="https://img.shields.io/badge/repos-browse-00CED1?style=for-the-badge&labelColor=0d1117&logo=github" alt="repos" /></a>
-<a href="https://github.com/henrychooi/henrychooi/issues/new?title=%5Bama%5D%20&body=ask%20away%20%E2%80%94%20code%2C%20uni%2C%20agents%2C%20markets%2C%20anything.%20i%20answer%20in%20the%20thread.%0A%0A---%0A%0A"><img src="https://img.shields.io/badge/ask_me-anything-00CED1?style=for-the-badge&labelColor=0d1117&logo=stackexchange" alt="ama" /></a>
+<img src="https://img.shields.io/badge/ask_me-anything-00CED1?style=for-the-badge&labelColor=0d1117&logo=stackexchange" alt="ama" /></a>
 
 </div>
 
